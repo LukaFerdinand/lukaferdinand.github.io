@@ -1,0 +1,104 @@
+
+
+html {
+    font-family: monospace;
+    font-size: medium
+
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    
+    text-align: center;
+}
+
+.navbar ul {
+    list-style: none;
+    background-color: darkgray;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #00539f;
+}
+
+.navbar li {
+    float: left;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+form{
+    box-sizing: border-box;
+    width: 400px;
+    padding: 10px; 
+    margin: 50px auto;
+}
+
+fieldset{
+
+    padding: 10px 150px 10px 10px ;
+}
+
+.form_input{
+    padding: 10px 0 0 0;
+}
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+iframe {
+    margin-left: 600px;
+    margin-right: 50px;
+    
+}
+
+.box{
+    display: flex;
+}
+
+.box-item{
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+img{
+    padding: 10px;
+    margin: 5;
+}
+
+button{
+    margin-top: 10px ;
+}
